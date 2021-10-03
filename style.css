@@ -29,7 +29,6 @@ header {
 #search {
     display: flex;
     align-items: center;
-    
 }
 #search button{
     background-color: #b4b4b4;
@@ -45,7 +44,6 @@ header {
     margin-left: 10px;
     border-radius: 50%;
     background-color: #181515;
-
 }
 #search input{
     min-height:100%;
@@ -66,4 +64,7 @@ header {
 }
 #quick img{
     width: 36px;
+}
+img, button{
+    cursor: pointer;
 }
