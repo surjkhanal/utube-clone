@@ -55,6 +55,7 @@ header {
     outline: none;
     font-size:16px;
     flex-grow: 5;
+    color: white;
 }
 #quick{
     display: flex;
